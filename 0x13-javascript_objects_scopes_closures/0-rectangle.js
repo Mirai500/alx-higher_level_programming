@@ -1,7 +1,4 @@
 #!/usr/bin/node
-/**
- * Represents a rectangle
- */
-class Rectangle {}
+// Empty class
 
-module.exports = Rectangle;
+module.exports = class Rectangle {};
